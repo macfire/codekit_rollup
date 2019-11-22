@@ -1,5 +1,7 @@
 # Rollup prepending function name with "_" when using Codekit
 
+Reference issue: https://github.com/rollup/rollup/issues/3255
+
 - Rollup Version: 1.24.0
 - Operating System (or Browser):  macOS 10.13.6
 - Node Version: v12.13.0
